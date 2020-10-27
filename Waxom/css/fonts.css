@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'Montserrat Ultra';
+    src: url('../fonts/Montserrat-UltraLight.eot');
+    src: url('Montserrat-UltraLight.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Montserrat-UltraLight.woff2') format('woff2'),
+        url('../fonts/Montserrat-UltraLight.woff') format('woff'),
+        url('../fonts/Montserrat-UltraLight.ttf') format('truetype'),
+        url('../fonts/Montserrat-UltraLight.svg#Montserrat-UltraLight') format('svg');
+    font-weight: 200;
+    font-style: normal;
+}
